@@ -3,7 +3,7 @@ A minimal, tray-based desktop widget for Windows that displays hand-picked motiv
 # Disclaimer-
 This is a personal project that i build for my use and would like share with anyone in need for such use case, it works perfectly fine in my PC even so, I will not be responsible for anything you do with it or if anything breaks, I by no means am forcing you to use it, you will do so by your own free will.
 # About
-✨ What is this?
+# ✨ What is this?
 
 Daily Quote Widget is a lightweight Windows desktop app that:
 
