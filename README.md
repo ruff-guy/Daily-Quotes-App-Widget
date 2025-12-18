@@ -31,6 +31,7 @@ Focus sessions
 
 Minimalist desktops
 
+
 🧩 Key Features
 
 🖼 Desktop widget with clean, centered layout
@@ -49,6 +50,7 @@ Exit app
 
 ✨ Subtle text fade animation (text-only, no window flicker)
 
+
 📝 Markdown support:
 
 **bold**
@@ -63,11 +65,13 @@ Author lines using —
 
 🚀 Can be configured to start with Windows
 
+
 🖥 Supported Platform
 
 ✅ Windows 10 / 11
 
 ❌ macOS / Linux (not supported)
+
 
 📦 What’s in this repository?
 dist/
@@ -77,6 +81,7 @@ README.md                  ← this file
 
 
 You only need the .exe and quotes.txt to run the app.
+
 
 ▶ How to Run
 
@@ -95,6 +100,7 @@ Appear on your desktop
 
 Add itself to the system tray
 
+
 🧷 Using the Tray Icon
 
 Right-click the tray icon to access:
@@ -108,6 +114,7 @@ Toggle Dark Mode → switch theme
 Exit → close the app completely
 
 Closing the widget window (❌) hides it to the tray — the app keeps running.
+
 
 📝 Customizing Quotes
 
@@ -123,6 +130,7 @@ Markdown is supported
 
 Author lines start with —
 
+
 Example
 **Discipline** beats *motivation*.
 — James Clear |
@@ -136,6 +144,7 @@ Write code like a **human** will read it.
 
 Edit the file anytime — changes apply on next refresh.
 
+
 🌙 Dark Mode
 
 Toggle from the tray menu
@@ -143,6 +152,7 @@ Toggle from the tray menu
 Your choice is remembered automatically
 
 No restart required
+
 
 🚀 Start with Windows (Optional)
 
@@ -159,6 +169,7 @@ Create a shortcut to DailyQuoteWidget.exe
 
 Place it in the Startup folder
 
+
 🛠 Built With
 
 Python
@@ -170,6 +181,7 @@ pystray (system tray)
 Pillow (tray icon)
 
 Packaged with PyInstaller
+
 
 🎯 Design Philosophy
 
@@ -183,10 +195,11 @@ Respect platform limitations
 
 No ads, no tracking, no cloud
 
+
 📌 License
 
 Free to use and modify for personal or educational purposes.
-(You may add a license file if desired.)
+
 
 🙌 Contributions
 
