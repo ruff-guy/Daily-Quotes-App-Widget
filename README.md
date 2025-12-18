@@ -32,7 +32,7 @@ Focus sessions
 Minimalist desktops
 
 
-🧩 Key Features
+# 🧩 Key Features
 
 🖼 Desktop widget with clean, centered layout
 
@@ -51,7 +51,7 @@ Exit app
 ✨ Subtle text fade animation (text-only, no window flicker)
 
 
-📝 Markdown support:
+# 📝 Markdown support:
 
 **bold**
 
@@ -66,14 +66,14 @@ Author lines using —
 🚀 Can be configured to start with Windows
 
 
-🖥 Supported Platform
+# 🖥 Supported Platform
 
 ✅ Windows 10 / 11
 
 ❌ macOS / Linux (not supported)
 
 
-📦 What’s in this repository?
+# 📦 What’s in this repository?
 dist/
  └── DailyQuoteWidget.exe   ← the application
 quotes.txt                 ← your quotes live here
@@ -83,7 +83,7 @@ README.md                  ← this file
 You only need the .exe and quotes.txt to run the app.
 
 
-▶ How to Run
+# ▶ How to Run
 
 Download the repository (or just the dist folder)
 
@@ -101,7 +101,7 @@ Appear on your desktop
 Add itself to the system tray
 
 
-🧷 Using the Tray Icon
+# 🧷 Using the Tray Icon
 
 Right-click the tray icon to access:
 
@@ -116,7 +116,7 @@ Exit → close the app completely
 Closing the widget window (❌) hides it to the tray — the app keeps running.
 
 
-📝 Customizing Quotes
+# 📝 Customizing Quotes
 
 All quotes are stored in a simple text file:
 
@@ -131,7 +131,7 @@ Markdown is supported
 Author lines start with —
 
 
-Example
+# Example
 **Discipline** beats *motivation*.
 — James Clear |
 
@@ -145,7 +145,7 @@ Write code like a **human** will read it.
 Edit the file anytime — changes apply on next refresh.
 
 
-🌙 Dark Mode
+# 🌙 Dark Mode
 
 Toggle from the tray menu
 
@@ -154,7 +154,7 @@ Your choice is remembered automatically
 No restart required
 
 
-🚀 Start with Windows (Optional)
+# 🚀 Start with Windows (Optional)
 
 To launch the widget automatically on startup:
 
@@ -170,7 +170,7 @@ Create a shortcut to DailyQuoteWidget.exe
 Place it in the Startup folder
 
 
-🛠 Built With
+# 🛠 Built With
 
 Python
 
@@ -183,7 +183,7 @@ Pillow (tray icon)
 Packaged with PyInstaller
 
 
-🎯 Design Philosophy
+# 🎯 Design Philosophy
 
 Minimal over flashy
 
@@ -196,12 +196,12 @@ Respect platform limitations
 No ads, no tracking, no cloud
 
 
-📌 License
+# 📌 License
 
 Free to use and modify for personal or educational purposes.
 
 
-🙌 Contributions
+# 🙌 Contributions
 
 Suggestions, improvements, and ideas are welcome.
 This project is intentionally simple — feature requests should respect that philosophy.
